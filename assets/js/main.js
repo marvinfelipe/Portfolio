@@ -554,6 +554,9 @@ glightbox.on('close', () => {
     updateThumbnailActive();
   }
 
+  // Make changeImage function globally accessible
+  window.changeImage = changeImage;
+
   // Event listeners for portfolio modal
   document.querySelector('.portfolio-modal-close').addEventListener('click', closePortfolioModal);
   
