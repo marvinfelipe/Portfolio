@@ -299,14 +299,14 @@ glightbox.on('close', () => {
       subtitle: 'E-commerce Platform',
       description: 'Developed a full-stack e-commerce solution for managing 30,000+ rental items across 5 branches im Visayas. Features include inventory management (RFID), booking system, and multi-branch synchronization.',
       images: [
-        'assets/img/portfolio/YSA12.png',
-        'assets/img/portfolio/YSA9.JPG',
-        'assets/img/portfolio/YSA10.png',
-        'assets/img/portfolio/YSA11.png',
-        'assets/img/portfolio/YSA12.png',
-        'assets/img/portfolio/YSA13.png',
-        'assets/img/portfolio/YSA14.png',
-        'assets/img/portfolio/YSA15.png',
+        'assets/img/portfolio/ysa12.png',
+        'assets/img/portfolio/ysa9.jpg',
+        'assets/img/portfolio/ysa10.png',
+        'assets/img/portfolio/ysa11.png',
+        'assets/img/portfolio/ysa12.png',
+        'assets/img/portfolio/ysa13.png',
+        'assets/img/portfolio/ysa14.png',
+        'assets/img/portfolio/ysa15.png',
 
         'assets/img/portfolio/YSA1.jpg',
         'assets/img/portfolio/YSA2.jpg',
@@ -411,7 +411,7 @@ glightbox.on('close', () => {
       subtitle: 'Custom 3D Printed Enclosure',
       description: '3D printed enclosure for NVIDIA Jetson Orin Nano development board. Features optimized cooling, mounting points, and professional finish for industrial applications.',
       images: [
-        'assets/img/portfolio/christian3.jpg',
+        'assets/img/portfolio/Christian3.jpg',
         'assets/img/portfolio/Christian1.jpg',
         'assets/img/portfolio/Christian2.jpg',
         'assets/img/portfolio/Christian4.jpg'
@@ -422,7 +422,7 @@ glightbox.on('close', () => {
       subtitle: '3D Printed Custom Part',
       description: '3D printed internal case replacement for Game Boy Micro. Custom-designed to fit original specifications with improved durability and material quality.',
       images: [
-        'assets/img/portfolio/bern1.jpg',
+        'assets/img/portfolio/Bern1.jpg',
         'assets/img/portfolio/Bern2.jpg'
       ]
     },
