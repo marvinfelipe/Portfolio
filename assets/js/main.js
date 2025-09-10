@@ -271,17 +271,15 @@ glightbox.on('close', () => {
   // Portfolio data with image galleries
   const portfolioGalleries = {
     'portfolio-16': {
-      title: 'CAPSTONE PROJECT: HydroSense',
-      subtitle: 'Water Quality Monitoring System',
-      description: 'A comprehensive IoT solution for real-time water quality monitoring using Arduino and ESP32. Features include pH, temperature, TDS, and turbidity sensors with web-based dashboard and data collection. Awarded 3rd in University Research Expo - Oral Presentation 2025',
+      title: 'Custom Racing Sim Controller',
+      subtitle: 'Custom 3D Modeled and Printed Racing Sim Controller',
+      description: 'Designed and 3D printed a custom racing simulator controller with ergonomic design, button layout, and high-quality materials for an immersive racing experience.',
       images: [
         'assets/img/portfolio/jade1.jpg',
         'assets/img/portfolio/jade2.jpg',
         'assets/img/portfolio/jade3.jpg',
         'assets/img/portfolio/jade4.jpg',
-        'assets/img/portfolio/jade5.jpg',
-        'assets/img/portfolio/jade6.jpg',
-        'assets/img/portfolio/jade7.jpg'
+        'assets/img/portfolio/jade5.jpg'
       ]
     },
     'portfolio-1': {
