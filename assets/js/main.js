@@ -270,6 +270,20 @@ glightbox.on('close', () => {
 
   // Portfolio data with image galleries
   const portfolioGalleries = {
+    'portfolio-16': {
+      title: 'CAPSTONE PROJECT: HydroSense',
+      subtitle: 'Water Quality Monitoring System',
+      description: 'A comprehensive IoT solution for real-time water quality monitoring using Arduino and ESP32. Features include pH, temperature, TDS, and turbidity sensors with web-based dashboard and data collection. Awarded 3rd in University Research Expo - Oral Presentation 2025',
+      images: [
+        'assets/img/portfolio/jade1.jpg',
+        'assets/img/portfolio/jade2.jpg',
+        'assets/img/portfolio/jade3.jpg',
+        'assets/img/portfolio/jade4.jpg',
+        'assets/img/portfolio/jade5.jpg',
+        'assets/img/portfolio/jade6.jpg',
+        'assets/img/portfolio/jade7.jpg'
+      ]
+    },
     'portfolio-1': {
       title: 'CAPSTONE PROJECT: HydroSense',
       subtitle: 'Water Quality Monitoring System',
